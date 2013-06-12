@@ -1,0 +1,12 @@
+{
+	"scope":"source.js, source.js.embedded.html",
+
+	"completions":[
+
+		{ "trigger": "vs", "contents": "var _this = this;" },
+		{ "trigger": "cl", "contents": "console.log($0);" },
+		{ "trigger": "fn", "contents": "function($1) {\n	$2\n}" },
+		{ "trigger": "vfn", "contents": "$1 = function($2) {\n	$3\n};" },
+		{ "trigger": "ofn", "contents": "$1:function($2) {\n	$3\n}," }
+	]
+}
