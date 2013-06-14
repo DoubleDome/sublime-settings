@@ -2,7 +2,7 @@ sublime-settings
 ================
 The steps outlined below will setup Sublime Text with preferences and snippets used commonly amung the team.
 
-#Installation Steps
+##Installation Steps
 1. Install Sublime Text
 1. Install Package Control Plug-in
 1. Restart Sublime Text
