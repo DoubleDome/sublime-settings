@@ -5,7 +5,10 @@
 
 		{ "trigger": "vs", "contents": "var _this = this;" },
 		{ "trigger": "cl", "contents": "console.log($0);" },
+		{ "trigger": "if", "contents": "if ($1) {}" },
 		{ "trigger": "fn", "contents": "function($1) {\n	$2\n}" },
+        { "trigger": "ov", "contents": "$1:$2 = $3;" },
+        { "trigger": "nv", "contents": "var $1 = $2;" },
 		{ "trigger": "vfn", "contents": "$1 = function($2) {\n	$3\n};" },
 		{ "trigger": "ofn", "contents": "$1:function($2) {\n	$3\n}," }
 	]
