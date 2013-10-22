@@ -3,7 +3,7 @@
 
 	"completions":[
 
-		{ "trigger": "vs", "contents": "var _this = this;" },
+		{ "trigger": "vs", "contents": "var self = this;" },
 		{ "trigger": "cl", "contents": "console.log($0);" },
 		{ "trigger": "if", "contents": "if ($1) {}" },
 		{ "trigger": "fn", "contents": "function($1) {\n	$2\n}" },

@@ -3,13 +3,15 @@
 function ${1}() {
     /* Variables
     --------------------------------------------------- */
-    var _this = this;
+    var _self = this;
 
     /* Basic Functions
     --------------------------------------------------- */
     this.init = function() {
 
     };
+
+    this.init();
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

@@ -1,8 +1,10 @@
 {
 	"ensure_newline_at_eof_on_save": false,
+	"font_size": 11.0,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Theme - Farzher"
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 4,

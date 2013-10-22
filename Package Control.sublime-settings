@@ -1,4 +1,5 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -6,7 +7,10 @@
 		"ColorPicker",
 		"EditorConfig",
 		"Emmet",
+		"HTMLBeautify",
 		"JsFormat",
+		"LESS",
+		"Markdown Preview",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PlainTasks",
@@ -15,6 +19,7 @@
 		"SASS Build",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"Syntax Highlighting for Sass",
 		"Theme - Farzher",
 		"Theme - Soda"
 	]
