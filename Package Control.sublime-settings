@@ -7,6 +7,7 @@
 		"ColorPicker",
 		"EditorConfig",
 		"Emmet",
+		"GitGutter",
 		"HTMLBeautify",
 		"JsFormat",
 		"LESS",
@@ -14,12 +15,11 @@
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PlainTasks",
-		"RSpec (snippets and syntax)",
-		"Sass",
-		"SASS Build",
+		"Predawn",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"Syntax Highlighting for Sass",
+		"Terminal",
 		"Theme - Farzher",
 		"Theme - Soda"
 	]

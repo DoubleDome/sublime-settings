@@ -3,10 +3,10 @@
 
 	"completions":[
 
-        { "trigger": "jq", "contents": "\\$(${1});" },
+        { "trigger": "jq", "contents": "\\$(${1})" },
 		{ "trigger": "jqt", "contents": "\\$(this)${1}" },
-		{ "trigger": "jqi", "contents": "\\$('#${1}');" },
-		{ "trigger": "jqc", "contents": "\\$('.${1}');" }
+		{ "trigger": "jqi", "contents": "\\$('#${1}')" },
+		{ "trigger": "jqc", "contents": "\\$('.${1}')" }
 
 	]
 }
